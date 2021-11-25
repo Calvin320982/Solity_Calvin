@@ -15,7 +15,7 @@
 
 #### 使用说明
 
-1.  xxxx
+1.  克隆之后需执行 pod install
 2.  xxxx
 3.  xxxx
 
