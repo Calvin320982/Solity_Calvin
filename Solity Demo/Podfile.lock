@@ -1,0 +1,21 @@
+PODS:
+  - BaiduMapKit/Base (6.4.0)
+  - BaiduMapKit/Map (6.4.0):
+    - BaiduMapKit/Base
+  - BaiduMapKit/Search (6.4.0):
+    - BaiduMapKit/Base
+
+DEPENDENCIES:
+  - BaiduMapKit/Map
+  - BaiduMapKit/Search
+
+SPEC REPOS:
+  trunk:
+    - BaiduMapKit
+
+SPEC CHECKSUMS:
+  BaiduMapKit: e6b88411085c2f2c4346c8d3bdb2f05f21064790
+
+PODFILE CHECKSUM: 894543fd95898641dfb8c010137e9aef25155dc3
+
+COCOAPODS: 1.11.2
